@@ -1,6 +1,7 @@
 # Time to do some cooler stuff with Git
 
 Compare some stuff.
+Do some stuff for rebase.
 
 ## Comparison
 

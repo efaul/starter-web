@@ -1,1 +1,2 @@
-New Stuff
+# This is a test git project
+

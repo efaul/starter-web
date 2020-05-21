@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Time to do some cooler stuff with Git
 
-This repository is for showing how Git and GitHub work
+Compare some stuff.
 
-## Purpose
+## Comparison
 
 Sample website with plenty of files for demos

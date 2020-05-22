@@ -2,6 +2,7 @@
 
 Compare some stuff.
 Do some stuff for rebase.
+Git stash is quite helpful
 
 ## Comparison
 

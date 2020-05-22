@@ -19,3 +19,4 @@ Break humans
 
 Test rebase
 Change another file for stash
+Change another file for stash branching

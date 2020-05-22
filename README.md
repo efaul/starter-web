@@ -7,3 +7,4 @@ Do some stuff for rebase.
 
 Sample website with plenty of files for demos
 Update file for auto-merge.
+Update README for branch stash
